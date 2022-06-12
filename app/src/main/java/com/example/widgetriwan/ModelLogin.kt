@@ -1,4 +1,4 @@
-package com.example.widgetriwan
+package com.example.widgetpaulniel
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

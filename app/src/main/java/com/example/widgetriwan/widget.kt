@@ -1,4 +1,4 @@
-package com.example.widgetriwan
+package com.example.widgetpaulniel
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import android.view.Window
 import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
+import com.example.widgetriwan.R
 import com.example.widgetriwan.databinding.ActivityWidgetBinding
 import com.google.android.material.snackbar.Snackbar
 

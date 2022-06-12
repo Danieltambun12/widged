@@ -1,4 +1,4 @@
-package com.example.widgetriwan
+package com.example.widgetpaulniel
 
 import android.content.Intent
 import android.content.pm.PackageManager
